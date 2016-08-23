@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.importsource.nsq4j;
 
 import java.util.Date;
